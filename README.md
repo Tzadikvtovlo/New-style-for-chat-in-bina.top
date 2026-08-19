@@ -1,4 +1,4 @@
-# New-style-for-chat-in-bina.top
+# New style for chat in bina.top
 
 סקריפט [Tampermonkey](https://www.tampermonkey.net/) להחלת עיצוב נקי (בסגנון וואצאפ) על צאטים של [פורום בינה.טופ](https://bina.top/).
 
