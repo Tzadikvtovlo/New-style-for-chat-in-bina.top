@@ -7,7 +7,7 @@
 // @match        https://bina.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-bina.top/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-bina.top/main/Tampermonkey.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=bina.top
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=bina.top
 // @grant        none
 // ==/UserScript==
 
